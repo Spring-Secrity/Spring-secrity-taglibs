@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring-secrity-taglibs:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Spring-secrity-taglibs.war">
+      <element id="artifact" artifact-name="Spring-secrity-taglibs:war exploded" />
+    </root>
+  </artifact>
+</component>
